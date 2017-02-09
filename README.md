@@ -1,1 +1,2 @@
-# prositePatternFinding
+- Prosite pattern이 주어졌을 때, FASTA 형식의 시퀀스 데이터에서 패턴 찾는 문제를 perl로 구현
+- 정규식 사용
